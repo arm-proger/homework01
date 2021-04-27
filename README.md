@@ -1,4 +1,18 @@
+# Homework 001
 ## About project
+This is my first project that I add to the GitHub.
+
+***
+
+Project map:
+
+* src
+  * `index.html`
+  * `index.js`
+  * `taskOne.js`
+* .gitignore
+* README
+* [LICENSE](./LICENSE.md)
 
 ***
 
