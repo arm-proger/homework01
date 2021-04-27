@@ -16,33 +16,29 @@ Project map:
 
 ***
 
-* Create 'homework001' folder
+Create 'homework001' folder
+```
+  mkdir homework001
+```
 
-    ```
-      mkdir homework001
-    ```
-
-* Initialized git
-
-  ```
-    git init
-  ```
+Initialized git
+```
+  git init
+```
 
 Because all files untracked, i should add all files
 
-* Add files
-
-  ```
-    git add
-  ```
+Add files
+```
+  git add
+```
 
 Now all files staged. Now i should commit
 
-* Commit files
-
-  ```
-    git commit -m 'my comment'
-  ```
+Commit files
+```
+  git commit -m 'my comment'
+```
 
 Code example:
 
@@ -56,5 +52,3 @@ Code example:
     return newArr
   }
 ```
-
-Please see [LICENSE](LICENSE.md)
