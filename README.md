@@ -30,4 +30,17 @@ Now all files staged. Now i should commit
     git commit -m 'my comment'
   ```
 
+Code example:
+
+```javascript
+  function itemsLength(array){
+    let newArr = []
+    array.forEach(el => {
+      newArr.push(el.length)
+    });
+
+    return newArr
+  }
+```
+
 Please see [LICENSE](LICENSE.md)
