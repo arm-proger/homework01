@@ -1,5 +1,7 @@
+// Our items
 const arr = ['aaa', 'bbbdfff']
 
+// Function for items
 function itemsLength(array){
   let newArr = []
   array.forEach(el => {
@@ -9,4 +11,5 @@ function itemsLength(array){
   return newArr
 }
 
+// Console log
 console.log(itemsLength(arr))
