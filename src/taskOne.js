@@ -1,6 +1,6 @@
-const arr = ['aaa', 'bbb']
+const arr = ['aaa', 'bbbdfff']
 
-function(array){
+function itemsLength(array){
   let newArr = []
   array.forEach(el => {
     newArr.push(el.length)
@@ -8,3 +8,5 @@ function(array){
 
   return newArr
 }
+
+console.log(itemsLength(arr))
