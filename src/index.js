@@ -1,4 +1,4 @@
-const a = 'aaa'
+let a = 'aaa'
 a = 'bbb'
 
 console.log(a)
