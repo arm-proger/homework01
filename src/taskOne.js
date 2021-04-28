@@ -11,5 +11,4 @@ function itemsLength(array){
   return newArr
 }
 
-// Console log
 console.log(itemsLength(arr))
