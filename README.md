@@ -42,6 +42,13 @@ Commit files
 
 Code example:
 
+HTML 5
+```html
+  <p>Hello world!</p>
+```
+
+JS
+
 ```javascript
   function itemsLength(array){
     let newArr = []
